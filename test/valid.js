@@ -6,15 +6,15 @@ test('valid', function() {
         assert.ok(address.validate(addr, type));
     };
 
-    validate('1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa');
-    validate('1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa', 'prod');
+    validate('LiL8HvSJRDgnS5BXATWe5MzWYicCbRvisr');
+    validate('LiL8HvSJRDgnS5BXATWe5MzWYicCbRvisr', 'prod');
     validate('mzBc4XEFSdzCDcTxAgf6EZXgsZWpztRhef', 'testnet');
 
-    validate('12KYrjTdVGjFMtaxERSk3gphreJ5US8aUP');
-    validate('12QeMLzSrB8XH8FvEzPMVoRxVAzTr5XM2y');
-    validate('1oNLrsHnBcR6dpaBpwz3LSwutbUNkNSjs');
-    validate('1SQHtwR5oJRKLfiWQ2APsAd9miUc4k2ez');
-    validate('116CGDLddrZhMrTwhCVJXtXQpxygTT1kHd');
+    validate('LX8B2K8eHSxWjfS55sdMoQj2PCPmvRRyLv');
+    validate('LNiFbDQqKifz4jFT4jDrKDzGAucCErmxm4');
+    validate('LToXZPFNxF5TiQ2caYXQqbSxdV9h8ZF23s');
+    validate('LSDeYTScvhrWGgz1Hri2H67nDH9sUBGc47');
+    validate('LW5xQHusFWajGJceNc9RvtzywKoE6uavnV');
 
     // p2sh addresses
     validate('3NJZLcZEEYBpxYEUGewU4knsQRn1WM5Fkt');
