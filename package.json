@@ -2,7 +2,7 @@
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "name": "litecoin-address",
   "description": "litecoin address verification",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/freewil/litecoin-address",
   "repository": {
     "type": "git",
