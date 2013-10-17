@@ -1,6 +1,6 @@
 # litecoin-address [![Build Status](https://travis-ci.org/freewil/litecoin-address.png)](https://travis-ci.org/freewil/litecoin-address)
 
-Functions for working with bitcoin addresses
+Functions for working with litecoin addresses
 
 ## install
 
